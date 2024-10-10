@@ -14,3 +14,6 @@ Better debug mode:
 Some gameplay elements (1st and 3rd person camera modes)
 
 Shadow mapping ? (broken)
+
+## Credits
+https://github.com/livinamuk
