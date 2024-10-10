@@ -1,0 +1,1 @@
+ensure folder names are the same as the names of the textures in side them, for example folder "NightSky" has textures: "NightSky_Top", "NightSky_Bottom" etc
